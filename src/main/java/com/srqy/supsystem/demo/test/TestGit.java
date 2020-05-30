@@ -12,6 +12,8 @@ public class TestGit {
         Integer count = 0;
         System.out.println(count);
 
+        System.out.println("我是第一版");
+
         String msg ="我是第二版";
 
     }
