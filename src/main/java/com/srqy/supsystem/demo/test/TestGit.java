@@ -11,5 +11,8 @@ public class TestGit {
         //你把Integer 改String
         Integer count = 0;
         System.out.println(count);
+
+        String msg ="我是第二版";
+
     }
 }
